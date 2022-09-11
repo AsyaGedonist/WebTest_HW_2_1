@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6dcoemf8p5k1v78f?svg=true)](https://ci.appveyor.com/project/AsyaGedonist/webtest-hw-2-1)
